@@ -123,3 +123,5 @@ const m1 = new Manager('Bruce');
 m1.delegateWork();
 m1.greet();
 console.log(m1.employeeName);
+
+const mafe = 2;
